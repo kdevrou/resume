@@ -13,3 +13,5 @@ Check [here](https://docs.racket-lang.org/pollen/Installation.html) for other op
 ## Develop
 
 ```raco pollen start . 8080```
+* http://localhost:8080/index.ptree for list of project files
+* http://localhost:8080/resume.html for the generated resume
