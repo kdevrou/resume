@@ -3,6 +3,13 @@
 #:pdf-title "Kevin DeVrou - Resume"
 #:pdf-author "Kevin DeVrou"
 #:pdf-subject "Resume"
+#:page-size "A4"
+#:page-orientation "portrait"
+#:page-margin-top "10mm"
+#:page-margin-bottom "10mm"
+#:page-margin-left "10mm"
+#:page-margin-right "10mm"
+#:draw-debug false
 
 
 ◊h1{Kevin DeVrou}
