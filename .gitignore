@@ -1,3 +1,6 @@
 compiled/
 *.css
 *.html
+*.bak
+
+*.pdf

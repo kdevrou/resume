@@ -1,17 +1,16 @@
 # Resume
 
-Resume in code using [Pollen](https://github.com/mbutterick/pollen)
+Resume in code using [Pollen](https://github.com/mbutterick/pollen) and [Quad](https://github.com/mbutterick/quad)
 
 ## Setup
 
 Get [Racket](https://download.racket-lang.org/)
 
 ```raco pkg install pollen```
-
-Check [here](https://docs.racket-lang.org/pollen/Installation.html) for other options.
+```raco pkg install quad```
 
 ## Develop
 
 ```raco pollen start . 8080```
 * http://localhost:8080/index.ptree for list of project files
-* http://localhost:8080/resume.html for the generated resume
+* http://localhost:8080/resume.pdf for the generated resume
